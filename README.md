@@ -1,2 +1,2 @@
 # gepc2
-Olá Mundo PC2
+Aprendendo a usar o GITHUB(TA FODA)
